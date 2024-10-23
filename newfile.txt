@@ -1,7 +1,4 @@
 This is a new file added
 some new lines added
-<<<<<<< HEAD
 Added 3rd line from the local
-=======
 third line added
->>>>>>> fb1860d44a89f70abb8e44e48c4e0809ce308882
